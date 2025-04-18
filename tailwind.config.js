@@ -17,5 +17,6 @@ module.exports = {
       },
     },
   },
+  darkMode: "class", // Menambahkan pengaturan dark mode berbasis class
   plugins: [],
 };
